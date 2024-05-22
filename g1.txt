@@ -1,2 +1,4 @@
 Hi i am learning devops
  and git
+
+ learning linux
